@@ -6,4 +6,4 @@ Currently, during my free time, I'm learning about app development and looking f
 
 Nice to meet you! If you want to talk, feel free to reach me on my social links or send me an e-mail (you can find more info on the side panel). 📪
 
-[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joogps&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joogps&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
