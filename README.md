@@ -6,13 +6,13 @@
     </a>
 </p>
 
-I'm João. Thank you for visiting!
+I'm João. Thank you so much for visiting!
 
 I love learning and exploring everything about but not limited to computer science, programming, design, math and development – always looking forward to becoming a nicer human in this big, floating blue sphere. 🌍
 - I _really_ enjoy building all sorts of things.
-- **Coolest achievement:** I was an WWDC Scholar in [2020](https://github.com/joogps/WWDC-2020) and [2021](https://github.com/joogps/WWDC-2021).
+- **I think my coolest achievement** is having been an WWDC Scholar in [2020](https://github.com/joogps/WWDC-2020) and [2021](https://github.com/joogps/WWDC-2021).
 
-I am currently a high school and computer science student at the [Federal Institute of Santa Catarina](https://www.ifsc.edu.br). I'm a project intern @ [Cindori](https://cindori.org), and I also develop my own apps. I'm a fantastic older brother too! You can learn more about my work over at [joogps.codes](https://joogps.codes).
+I am currently a high school and computer science student at the [Federal Institute of Santa Catarina (IFSC)](https://www.ifsc.edu.br). I'm a project intern @ [Cindori](https://cindori.org), and I also develop my own apps. I'm a fantastic older brother too! You can learn more about my work over at [joogps.codes](https://joogps.codes).
 
 If you want to chat, feel free to reach me on my social links or send me an e-mail (you can find more info on the side panel). 📪
 
