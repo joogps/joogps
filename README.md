@@ -2,7 +2,10 @@
 <p>
     <img src="https://shields.io/badge/pronouns-he/him-blue" alt="My pronouns are he/him"/>
     <a href="https://twitter.com/joogps">
-        <img src="https://img.shields.io/badge/Contact-@joogps-lightgrey.svg?style=social&logo=twitter" alt="I'm @joogps on Twitter" />
+        <img src="https://img.shields.io/badge/@joogps-lightgrey.svg?style=social&logo=twitter" alt="I'm @joogps on Twitter" />
+    </a>
+    <a href="https://instagram.com/joogps">
+        <img src="https://img.shields.io/badge/@joogps-lightgrey.svg?style=social&logo=instagram" alt="I'm @joogps on Twitter" />
     </a>
 </p>
 
