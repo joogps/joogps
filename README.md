@@ -13,7 +13,7 @@ I'm João. Thank you so much for visiting!
 
 I love learning and exploring everything about but not limited to computer science, programming, design, math and development – always looking forward to becoming a nicer human in this big, floating blue sphere. 🌍
 - I _really_ enjoy building all sorts of things.
-- **I think my coolest achievement** is having been an Apple WWDC Scholar in [2020](https://github.com/joogps/WWDC-2020) and [2021](https://github.com/joogps/WWDC-2021).
+- **I think my coolest achievement** is being an Apple WWDC Scholar in [2020](https://github.com/joogps/WWDC-2020) and [2021](https://github.com/joogps/WWDC-2021).
 
 I am currently a high school and computer science student at the [Federal Institute of Santa Catarina (IFSC)](https://www.ifsc.edu.br). I'm a team member @ [Cindori](https://cindori.org), and I also develop my own apps. I'm a fantastic older brother too! You can learn more about my work over at [joogps.codes](https://joogps.codes).
 
