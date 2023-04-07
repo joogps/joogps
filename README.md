@@ -15,6 +15,6 @@ I enjoy a lot of stuff – including but not limited to computer science, progra
 
 I am currently a high school senior also doing an IT course at the [Federal Institute of Santa Catarina (IFSC)](https://www.ifsc.edu.br). I'm a team member @ [Cindori](https://cindori.org), and I also develop [my own apps](http://twitter.com/MagicDrawApp).
 
-You can learn more about my work over at [joogps.codes](https://joogps.codes). You can find my Twitter and Instagram there if perhaps you want a friend as well.
+You can learn more about my work over at [joogps.codes](https://joogps.codes). You can find my Twitter and Instagram right below the title of this document if, perhaps, you want a friend as well.
 
 [![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joogps&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
