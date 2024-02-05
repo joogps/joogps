@@ -1,4 +1,4 @@
-# hi 👋
+# hi
 <p>
     <a href="https://twitter.com/joogps">
         <img src="https://img.shields.io/badge/@joogps-lightgrey.svg?style=social&logo=twitter" alt="I'm @joogps on Twitter" />
